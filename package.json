@@ -1,0 +1,28 @@
+{
+  "name": "twilio-fun",
+  "version": "1.0.0",
+  "description": "node.js webapp to test twilio features",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "eslint": "^5.8.0",
+    "express": "^4.16.4",
+    "multer": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezronis/twilio-fun.git"
+  },
+  "author": "shylee ezroni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezronis/twilio-fun/issues"
+  },
+  "homepage": "https://github.com/ezronis/twilio-fun#readme"
+}
